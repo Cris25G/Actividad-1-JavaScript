@@ -1,0 +1,12 @@
+body noscript h1 {
+    color: red;
+}
+
+body {
+    background: rgb(115, 240, 245);
+}
+
+body h2 {
+    text-align: center;
+}
+
